@@ -3,7 +3,9 @@
 <h2>About Me</h2>
 🔭 I’m developer of Abyss Tweaking Software.
 <br>
-🌱 I’m interest in graphics design.
+🏫 I'm a university student who lives in the Turkey.
+<br>
+🌱 I'm interested in graphics design and programming.
 <br>
 ⚡ The OS Gourmet.
 <br>
