@@ -20,3 +20,4 @@
 ![CSS](https://shields.io/badge/CSS--9cf?style=social&logo=CSS3&logoColor=black)
 ![JavaScript](https://shields.io/badge/JavaScript--9cf?style=social&logo=JavaScript&logoColor=black)
 ![Python](https://shields.io/badge/Python--9cf?style=social&logo=python&logoColor=black)
+![C#](https://shields.io/badge/C%23--9cf?style=social&logo=C-sharp&logoColor=black)
