@@ -12,4 +12,4 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00adef)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
+![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple)
