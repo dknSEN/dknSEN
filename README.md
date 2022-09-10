@@ -10,6 +10,6 @@
 
 <h3>Working Platforms</h3>
 
-![Windows](https://shields.io/badge/Windows--9cf?&logo=Windows&logoColor=00adef)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=Apple&logoColor=F0F0F0)
 ![Linux](https://shields.io/badge/Linux--9cf?logo=Linux&style=social)
-![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
