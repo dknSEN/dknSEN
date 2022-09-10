@@ -16,7 +16,7 @@
 
 <h3>Languages</h3>
 
-![HTML](https://shields.io/badge/HTML--9cf?&logo=HTML5?style=social&logoColor=black)
-![CSS](https://shields.io/badge/CSS--9cf?&logo=CSS3?style=social&logoColor=black)
-![JavaScript](https://shields.io/badge/JavaScript--9cf?&logo=JavaScript?style=social&logoColor=black)
-![Python](https://shields.io/badge/Python--9cf?&logo=python?style=social&logoColor=black)
+![HTML](https://shields.io/badge/HTML--9cf?style=social&logo=HTML5&logoColor=black)
+![CSS](https://shields.io/badge/CSS--9cf?style=social?&logo=CSS3&logoColor=black)
+![JavaScript](https://shields.io/badge/JavaScript--9cf?style=social?&logo=JavaScript&logoColor=black)
+![Python](https://shields.io/badge/Python--9cf?style=social?&logo=python&logoColor=black)
